@@ -1,0 +1,14 @@
+.initial {
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+  position: absolute;
+  z-index: 1;
+}
+.box {
+  width: 50%;
+  height: 20%;
+  background-color: white;
+  border: 1px solid black;
+  opacity: 0;
+}

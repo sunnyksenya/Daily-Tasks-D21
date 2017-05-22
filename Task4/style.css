@@ -1,0 +1,9 @@
+.slider {
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+}
+img {
+  display: block;
+  /*margin: 10px;*/
+}
